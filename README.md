@@ -1,7 +1,7 @@
 ### Hi! I am Wenjing (Alisa) Tian.
 
 
-- 🌱 I’m currently studying Data Science @ Duke University
+- 🌱 I’m currently studying Data Science at Duke University
 - 🔭 I’m currently learning Machine Learning, Data Engineering System, Natural Language Processing, Causal Inference
 - 📫 How to reach me: alisa.tian@duke.edu
 
