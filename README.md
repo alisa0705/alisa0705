@@ -1,4 +1,4 @@
-### Hi! I am Wenjing (Alisa) Tian.
+### Hi! I am Alisa Tian.
 
 
 - 🌱 I’m currently studying Data Science at Duke University
