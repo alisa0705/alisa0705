@@ -1,7 +1,7 @@
 ### Hi! I am Alisa Tian.
 
 
-- 🌱 I’m currently studying Data Science at Duke University
+- 🌱 I’m studying Data Science at Duke University
 - 🔭 I’m currently learning Machine Learning, Data Engineering System, Natural Language Processing, Causal Inference
 - 📫 How to reach me: alisa.tian@duke.edu
 - ⛸️ Fun fact: I love figure skating and skate for Duke Figure Skating Team and Yale Figure Skating Team. 
