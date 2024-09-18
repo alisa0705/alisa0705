@@ -10,9 +10,6 @@ If I'm not studying, you will possibly find me spinning in the ice rink, stretch
 
 Check out this website to know more about Alisa!
 
-[alisatian.com](https://alisatian.com)
-
-
 
 <!--
 **alisa0705/alisa0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
